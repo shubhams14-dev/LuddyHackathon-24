@@ -33,6 +33,12 @@ Next execute frontend:
 4. Starts the development server for the project.
   -> npm start
 
+API endpoints –
+1. For product name - http://127.0.0.1:5000/contacts?product_name=security
+2. For repository name - http://127.0.0.1:5000/contacts?repository_name=raise-repo
+
+
+
 
 
 
